@@ -1,3 +1,21 @@
+
+Install json-server
+
+npx json-server --watch db.json --port 8000
+
+Install Axios and React Router
+
+npm i axios
+npm i react-router-dom
+![image](https://github.com/mathewaugustine30/example4-reactjs-user-crud/assets/19630912/06904b61-1dc8-4428-8e0b-a376d5e98dca)
+
+
+<img width="1320" alt="image" src="https://github.com/mathewaugustine30/example4-reactjs-user-crud/assets/19630912/d31eff13-c997-4546-9ce3-3f217bfa39c9">
+
+<img width="1363" alt="image" src="https://github.com/mathewaugustine30/example4-reactjs-user-crud/assets/19630912/52051950-3599-4739-98a2-7017ab1958aa">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
